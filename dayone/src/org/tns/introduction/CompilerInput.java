@@ -7,6 +7,7 @@ public class CompilerInput {
 		// Variable initialization
 		short num = 34;
 		System.out.println("This is a Num: "+num);
+		
 
 
 	}
