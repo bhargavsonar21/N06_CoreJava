@@ -7,6 +7,7 @@ public class LibraryExecuter {
 		Library l = new Library();
 		Library l1 = new Library(5,"Vishal Lichade","Java Prgraming",250.56);
 		System.out.println(l1);
+		System.out.println(l);
 		
 		
 
