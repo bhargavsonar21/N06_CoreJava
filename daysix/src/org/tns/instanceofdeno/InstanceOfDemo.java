@@ -18,14 +18,13 @@ class SBI extends RBI
 }
 //Program to demonstrate instance of operator
 public class InstanceOfDemo {
-	
-
-
-
 	public static void main(String args[]){
 		SBI s = new SBI();
 		System.out.println(s instanceof SBI);
 		System.out.println(s instanceof RBI);
+		
+		//Instancefo demo is use to check whether the given object is of 
+		//which class
 		
 
 	}
